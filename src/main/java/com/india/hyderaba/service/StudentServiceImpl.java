@@ -9,6 +9,8 @@ import com.india.hyderaba.repository.StudentRepository;
 
 @Service
 public class StudentServiceImpl {
+	
+	//mallika
 	@Autowired
 	StudentRepository studentRepository;
 	
